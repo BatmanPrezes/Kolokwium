@@ -1,0 +1,11 @@
+0a3c1b5b3c7765b80e2634c92f1d9df48b5bc134 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from BatmanPrezes/kultura
+46100a0157a538f0aa7981198bd66119fc028950 (tag: v38, origin/kultura, kultura) DŚ Masowego Przekazu
+b60f152352f109002a1756511bfbaba61a3f4ce1 Dzień Działacza kultury
+3889a384ddb872bc659b3178435fcb5ccdfb4acd usuniecie z blednego brancha
+1936790091359ef317877f38828d51cd858015a2 (tag: v3.8) DŚ Masowego Przekazu
+bf3152384187a7cff07b5dfc3ca99a1836e139fb Dzień Działacza kultury
+f536dfe8f8889f1573a9140cf80e25ae90d1187c Merge pull request #1 from BatmanPrezes/onz
+73f9f27b3bc55ef19d06e2d0e41b8513a2d35bb1 (tag: v3.7, origin/onz) Dzień Uczestników Misji Pokojowych ONZ
+c1d5b34d7dde194cea77f5208674e87eb81484b0 Dzień Uczestników Misji Pokojowych ONZ
+9b0a1a55f112b9870a913c53de7510c995053406 Dzień Uczestników Misji Pokojowych ONZ
+b0db782f79c682b96f22ce809ea8595cb5f78814 Initial commit
